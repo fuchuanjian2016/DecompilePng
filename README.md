@@ -1,14 +1,13 @@
 # DecompilePng a simple tool for Decrypt resources in Phone Game
 
-**Crack or Decompile 90%+ Png in Android/iOS Game**
-
+**Crack or Decompile 90%+ Png in Android/iOS Game** 
 
 ## How To Use?
 
 Copy "DecompilePng.exe" to Game Assest Root Folder, then run it. this tool will auto check and decrypt all resources.
-*** Android:***
+### Android:
 unzip apk -> copy "DecompilePng.exe" to "assets" floder, run "DecompilePng.exe"
-*** iOS: ***
+### iOS: ***
 unzip ipa -> copy "DecompilePng.exe" to "Data" floder, run "DecompilePng.exe"
 
 
